@@ -10,11 +10,30 @@ Caça Palavras é uma aplicação Web com o objetivo de constituir um Jogo de Ca
 
 Antes de iniciar, certifique-se de cumprir os seguintes requisitos:
 <!--- Estes são alguns exemplos de requisitos. Adicione, duplique e remove como necessário --->
-* Você deve possuir a última versão do `<PHP/Apache/MYSQL` instalado.
+* Você deve possuir a última versão do `PHP/Apache/MYSQL` instalado.
 * Você deve possuir uma máquina `<Windows/Linux/Mac>`. 
 
 * Você deve ler o `<guia/link/documentação>` dos termos de uso.
-* (outros ...)
+
+## Product Backlog
+
+A seguinte aplicação conta/contará com as seguintes funcionalidades.
+
+
+* Escolher a categoria do caça palavras (Alta)
+  * Poder escolher a categoria das palavras que estarão no caça palavras 
+
+* Alterar categoria do caça palavras (Média)
+  * Poder alterar a categoria das palavras que estarão no caça palavras 
+
+* Jogar (Alta)
+  * Poder jogar 
+
+* Compartilhar caça palavras (Média)
+  * Poder compartilhar o link do caça palavras para outros acessarem
+
+* Multi jogador (Média)
+  * Poder jogar com mais de um usuário
 
 ## Como executar
 
@@ -37,11 +56,11 @@ Windows (opcional):
 
 Para usar Caça Palavras, siga os seguintes passos (exemplos):
 
-* Abra o navegador e digite o seguinte endereço: `http://localhost//progweb-template`
+* Abra o navegador e digite o seguinte endereço: `http://localhost/progweb-template`
 * Ao abrir a aplicação você poderá:
-  * Navegar pelo conteúdo público, ou
-  * Entrar com usuário e senha para ....
-* *Continua ...*  
+  * Navegar pelo conteúdo público
+
+* 
 
 *Descreva as principais atividades, e/ou fluxos, que são possíveis de serem realizadas na aplicação.*
 
