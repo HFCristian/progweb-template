@@ -1,19 +1,18 @@
-# Nome_da_Aplicação
+# Caça palavras
 
 <!--- Exemplos de badges. Acesse https://shields.io para outras opções. Você pode querer incluir informações de dependencias, build, testes, licença, etc. --->
-![GitHub repo size](https://img.shields.io/github/repo-size/hsborges/progweb-template)
-![GitHub contributors](https://img.shields.io/github/contributors/hsborges/progweb-template)
+![GitHub repo size](https://img.shields.io/github/repo-size/HFCristian/progweb-template)
+![GitHub contributors](https://img.shields.io/github/contributors/HFCristian/progweb-template)
 
-Nome_da_Aplicação é um/uma ... que permite/tem por objetivo/visa/etc .... 
-
-Coloque aqui linhas adicionais com informações sobre o que a aplicação faz. Sua introdução deve ser de no máximo 3 parágrafos, seja simples e objetivo para não sobrecarregar de detalhes desnecessários este espaço. Se necessário, crie novas seções abaixo.
+Caça Palavras é uma aplicação Web com o objetivo de constituir um Jogo de Caça Palavras como parte da avaliação na matéria de Progração Web
 
 ## Pré-requisitos
 
 Antes de iniciar, certifique-se de cumprir os seguintes requisitos:
 <!--- Estes são alguns exemplos de requisitos. Adicione, duplique e remove como necessário --->
-* Você deve possuir a última versão do `<linguagem/dependencia/etc>` instalado.
-* Você deve possuir uma máquina `<Windows/Linux/Mac>`. (Deixe claro qual SO é possível rodar a aplicação, Linux é obrigatório).
+* Você deve possuir a última versão do `<PHP/Apache/MYSQL` instalado.
+* Você deve possuir uma máquina `<Windows/Linux/Mac>`. 
+
 * Você deve ler o `<guia/link/documentação>` dos termos de uso.
 * (outros ...)
 
@@ -34,11 +33,11 @@ Windows (opcional):
 <commandos>
 ```
 
-## Usando Nome_da_Aplicação
+## Usando Caça Palavras
 
-Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
+Para usar Caça Palavras, siga os seguintes passos (exemplos):
 
-* Abra o navegador e digite o seguinte endereço: `http://localhost/....`
+* Abra o navegador e digite o seguinte endereço: `http://localhost//progweb-template`
 * Ao abrir a aplicação você poderá:
   * Navegar pelo conteúdo público, ou
   * Entrar com usuário e senha para ....
@@ -50,11 +49,11 @@ Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
 
 As seguintes pessoas contribuiram para este projeto:
 
-* [Meu nome](https://github.com/meu_nome)
-* *.... (liste todos os membros da equipe)*
+* Cristian Haas Fretes (https://github.com/HFCristian)
+
 
 ## Licença de uso
 
 <!--- Se não tiver certeza de qual, verifique este site: https://choosealicense.com/--->
-Este projeto usa a seguinte licença: [<nome_da_licenca>](<link>).
-*Você também deve criar um arquivo chamado LICENSE no projeto*
+Este projeto usa a seguinte licença: [MIT](https://github.com/HFCristian/progweb-template/blob/master/LICENSE).
+
